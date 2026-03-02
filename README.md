@@ -4,7 +4,6 @@ A full-stack web application for reporting crimes against women, built with Node
 
 ## Features
 
-- User Registration & Authentication (JWT)
 - Role-based access control (Citizen, Police, Admin)
 - Crime reporting with detailed information
 - Status tracking and updates
@@ -15,7 +14,7 @@ A full-stack web application for reporting crimes against women, built with Node
 
 - **Backend**: Node.js, Express.js, PostgreSQL
 - **Frontend**: React.js, Vite
-- **Authentication**: JWT (JSON Web Tokens)
+- **Authentication**: JWT
 - **Database**: PostgreSQL
 
 ## Project Structure
